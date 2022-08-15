@@ -25,7 +25,7 @@ const App = () => {
   return (
     <>
       <StyledWrapper>
-        <Section title="Please leave feedback">
+        <Section title="Please leave your feedback">
           <FeedbackOptions onLeaveFeedback={onLeaveFeedback} />
         </Section>
 
